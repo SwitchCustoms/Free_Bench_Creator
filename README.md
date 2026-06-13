@@ -8,6 +8,7 @@ Create, place, move, edit, and delete crafting benches entirely in‑game using 
 Perfect for weapon crafting, drug labs, mechanic workstations, black‑market crafting, and any custom gameplay loop.
 
 🚀 Features
+
 🔧 Unlimited Crafting Benches — Create, move, rename, and delete benches in‑game.
 
 📦 Per‑Bench Recipes — Each bench has its own crafting list.

@@ -29,6 +29,7 @@ Perfect for weapon crafting, drug labs, mechanic workstations, black‑market cr
 🛡 Unified Admin System — Supports ESX groups, QBCore permissions, and ACE.
 
 🧩 Dependencies
+
 ox_inventory
 
 ox_lib
